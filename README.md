@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 
    ```shell
-   yarn start
+   yarn dev
    ```
 
    This command will start the development server, and the app will open in your default web browser.
