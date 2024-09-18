@@ -1,4 +1,4 @@
-import AppPage from "./components/AppPage";
+import AppPage from "./layout/AppPage";
 import Calculator from "./components/Calculator";
 
 export default function HomePage() {

@@ -29,7 +29,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts", 
-    "app/tests/calculateCompoundInterest.test.ts"  
+    "app/tests/calculatorService.test.ts"  
   ],
   "exclude": [
     "node_modules"

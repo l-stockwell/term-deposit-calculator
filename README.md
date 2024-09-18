@@ -31,10 +31,10 @@ Before you begin, ensure you have met the following requirements:
 
 
    ```shell
-   yarn dev
+   yarn start
    ```
 
-   This command will start the development server, and the app will open in your default web browser. If it doesn't automatically open, head to http://localhost:3000.
+   This command will start the development server, and the app will open in your default web browser.
 
 ### Testing
 
@@ -53,10 +53,10 @@ Before you begin, ensure you have met the following requirements:
 - Adapts to different screen sizes 
 
 
-## To-Dos
+## Possible improvements
 
-- Improved front-end validation
 - Combine years/months into a single input
 - Calculate and display interest earned in total and per pay period i.e. monthly
 - More intuitive front-end, i.e. informative tooltips describing each step
 - Implement charts/tables showing deposit growth over time
+- Save previous calculations
