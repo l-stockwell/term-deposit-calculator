@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
    yarn dev
    ```
 
-   This command will start the development server, and the app will open in your default web browser.
+   This command will start the development server, and the app will open in your default web browser. If it doesn't automatically open, head to http://localhost:3000.
 
 ### Testing
 
