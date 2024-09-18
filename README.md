@@ -1,7 +1,8 @@
-
 ## Introduction
 
-This simple term deposit calculator is a web application developed using Next.js, React.js and Mantine.
+This simple term deposit calculator is a web application developed using Next.js, React and Mantine.
+
+![image](https://github.com/user-attachments/assets/295d7c00-c247-4c52-b0c4-7d255265a4f7)
 
 ## Getting Started
 
