@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the project:
 
    ```shell
-   git clone https://github.com/lenacs/term-deposit-calculator.git
+   git clone https://github.com/l-stockwell/term-deposit-calculator.git
    ```
    
 1. Install the dependencies:
