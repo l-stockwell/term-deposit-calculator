@@ -55,12 +55,12 @@ Before you begin, ensure you have met the following requirements:
 ## Design decisions
 
 - The Mantine library was used to quickly mock up the frontend, with the added benefit of handling much of the user input validation. It also eliminated the need for custom CSS or hardcoding mobile responsiveness
-- The app structure is intentionally loosely based on what a larger web application could look like, with files seperated into folders ie. util/types/components. Probably overkill for a small app like this, but it's always nice to consider extensibility. 
+- The app structure is intentionally loosely based on what a larger web application could look like, with files seperated into folders ie. util/types/components. Probably overkill for a small app like this, but it's always nice to consider extensibility
 
 ## Trade-offs / assumptions
 
-- It wouldn've been great to offer the user more assistance on what each term means and offer more detailed analytics, but this wasn't implemented due to time restraints.
-- It also assumes that each period is of even length, ie. months is an annual figure divided by 12. However, since interest is calulated daily, this might not be completely accurate. 
+- It wouldn've been great to offer the user more assistance on what each term means and offer more detailed analytics, but this wasn't implemented due to time restraints
+- It also assumes that each period is of even length, ie. months is an annual figure divided by 12. However, since interest is calulated daily, this might not be completely accurate
 - The result is rounded to the nearest whole number for simplicity
 
 ## Possible improvements
